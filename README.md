@@ -59,10 +59,9 @@ E --Study--> F[New expectations] --> G(Diferent Life)
 
 </details>
 
-## Aplicação de IA's para reduzir tempo de trabalho.
 
 ## 📒 Descrição
-- Nestes projetos tive quero apresentar algumas possibilidades a partir do uso de ferramentas que utilizam a tecnologia de treinamento de maquina LLM, e redes adversárias.
+- Nestes projetos quero apresentar algumas possibilidades a partir do uso de ferramentas que utilizam a tecnologia de treinamento de maquina LLM, e redes adversárias.
 Apliquei conceitos de estrutura na escrita de script. Mesmo usando linguagem natural afim de testar as capacidades de interprepação por parte das plataformas, poderá ver que os resultados obtidos são relativamente satisfatórios.
 
 
